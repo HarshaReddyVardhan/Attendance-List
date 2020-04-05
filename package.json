@@ -1,0 +1,22 @@
+{
+  "name": "Attendance-List",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start":"node server.js"  
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshaReddyVardhan/Attendance-List.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshaReddyVardhan/Attendance-List/issues"
+  },
+  "homepage": "https://github.com/HarshaReddyVardhan/Attendance-List#readme",
+  "dependencies": {
+    "express": "^6.13.4"
+  }
+}
