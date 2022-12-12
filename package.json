@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/HarshaReddyVardhan/Attendance-List#readme",
   "dependencies": {
-    "express": "^6.13.4"
+    "express": "^4.17.3"
   }
 }
